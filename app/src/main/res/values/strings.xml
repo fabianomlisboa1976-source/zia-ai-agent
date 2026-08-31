@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Z.ia</string>
+    <string name="agent_channel_name">Z.ia Agent</string>
+    <string name="agent_channel_desc">Notificação do agente 24/7 ativo</string>
+    <string name="agent_running">Z.ia rodando</string>
+    <string name="agent_running_text">Agente ativo · LLM: %1$s</string>
+    <string name="stop_agent">Parar agente</string>
+    <string name="start_agent">Iniciar agente</string>
+
+    <!-- Navigation -->
+    <string name="nav_chat">Chat</string>
+    <string name="nav_providers">Modelos</string>
+    <string name="nav_plugins">Plugins</string>
+    <string name="nav_settings">Config</string>
+
+    <!-- Chat -->
+    <string name="chat_hint">Digite sua mensagem…</string>
+    <string name="chat_send">Enviar</string>
+    <string name="chat_empty">Inicie uma conversa com a Z.ia</string>
+    <string name="chat_thinking">Pensando…</string>
+    <string name="chat_error">Erro: %1$s</string>
+
+    <!-- Providers -->
+    <string name="providers_free">Gratuitos</string>
+    <string name="providers_paid">Pagos</string>
+    <string name="providers_active">Ativo</string>
+    <string name="providers_activate">Ativar</string>
+    <string name="providers_api_key">API Key</string>
+    <string name="providers_save_key">Salvar</string>
+    <string name="providers_no_key">Sem chave — toque para configurar</string>
+
+    <!-- Settings -->
+    <string name="settings_supabase">Supabase</string>
+    <string name="settings_supabase_url">URL do projeto</string>
+    <string name="settings_supabase_key">Chave anônima (anon key)</string>
+    <string name="settings_agent">Agente 24/7</string>
+    <string name="settings_agent_interval">Intervalo de verificação (segundos)</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_theme_dark">Escuro</string>
+    <string name="settings_theme_light">Claro</string>
+
+    <!-- Plugins -->
+    <string name="plugins_title">Plugins</string>
+    <string name="plugin_supabase">Supabase</string>
+    <string name="plugin_supabase_desc">Banco de dados, autenticação e realtime</string>
+    <string name="plugin_connected">Conectado</string>
+    <string name="plugin_disconnected">Desconectado</string>
+</resources>

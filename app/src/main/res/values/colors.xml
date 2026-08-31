@@ -1,0 +1,8 @@
+<resources>
+    <color name="zia_primary">#7C4DFF</color>
+    <color name="zia_secondary">#FF4081</color>
+    <color name="zia_background">#0F0F1A</color>
+    <color name="zia_surface">#1A1A2E</color>
+    <color name="zia_on_primary">#FFFFFF</color>
+    <color name="zia_on_surface">#E0E0E0</color>
+</resources>
