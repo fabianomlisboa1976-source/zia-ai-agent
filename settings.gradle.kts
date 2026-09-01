@@ -12,6 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-rootProject.name = "Zia"
+rootProject.name = "zia-ai-agent"
 include(":app")
