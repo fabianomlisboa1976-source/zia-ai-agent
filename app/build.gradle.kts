@@ -41,6 +41,13 @@ android {
     }
 }
 
+
+configurations.all {
+    resolutionStrategy {
+        force("androidx.browser:browser:1.7.0")
+    }
+}
+
 dependencies {
     // Compose BOM
     val composeBom = platform("androidx.compose:compose-bom:2024.09.02")
